@@ -1,8 +1,8 @@
 html, body {
     margin: 0;
     padding: 0px 0px 0px 0px;
-    font-family: 'Roboto', sans-serif;
-    color: #666666;
+    font-family: 'Kohinoor Devanagari', sans-serif;
+    color: #000000;
 }
 
 body {
@@ -21,12 +21,12 @@ body {
    position: absolute;
    padding: 0px 0px 0px 20px;
    z-index: 3;
-   color: #131359;
+   color: #000000;
    font-weight: bold;
 }
 
 .top-menu {
-   background-color: #131359;
+   background-color: #000000;
    position: absolute;
    top: 85px;
    z-index: 2;
@@ -36,7 +36,7 @@ body {
 .top-menu ul {
     list-style-type: none;
     font-size: 20px; 
-    float: right;
+    float: left;
     margin-right: 20px;
 }
 
@@ -51,11 +51,11 @@ body {
 }
 
 .top-menu li a:hover {
-    background-color: red;
+    background-color: black;
 }
 
 .current-page-link {
-    background-color: #db0e0e;
+    background-color: #000000;
 }
 
 .page-content {
